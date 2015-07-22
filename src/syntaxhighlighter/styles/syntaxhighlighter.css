@@ -1,0 +1,29 @@
+.mce-syntaxhighlighter-button .mce-ico {
+    background-size: contain;
+}
+
+.tinymce-syntaxhighlighter-wrapper.umb-modal.fade.in {
+    width: 40% !important;
+    margin-left: -40% !important;
+}
+
+.tinymce-syntaxhighlighter .codearea {
+    width: 100%;
+    height: 240px;
+    white-space: nowrap;
+}
+
+.tinymce-syntaxhighlighter .preview {
+    width: 100%;
+    height: 240px;
+    overflow: auto;
+}
+
+.tinymce-syntaxhighlighter .preview code {
+    white-space: inherit;
+}
+
+.tinymce-syntaxhighlighter .preview code.nohighlight {
+    border: none;
+    background: none;
+}
